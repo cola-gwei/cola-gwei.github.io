@@ -1,2 +1,2 @@
 # cola-gwei.github.io
-just for myself escape the school! 
+just for me escape the school! 
